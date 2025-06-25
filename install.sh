@@ -11,7 +11,7 @@ git clone https://github.com/tmux-plugins/tmux-cpu.git ~/.config/tmux/plugins/tm
 
 echo "Installing tmux-battery..."
 mkdir -p ~/.config/tmux/plugins/tmux-battery
-git clone https://github.com/tmux-plugins/tmux-battery.git ~/.config/tmux/plugins/tmux-cpu
+git clone https://github.com/tmux-plugins/tmux-battery.git ~/.config/tmux/plugins/tmux-battery
 
 echo "Applying custom configuration..."
 tmux source ~/.config/tmux/tmux.conf
